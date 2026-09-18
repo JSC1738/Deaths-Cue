@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 51306a8822d578d4282f8b697740eb38
+  - enabled: 1
+    path: Assets/Scenes/Indoor_1.unity
+    guid: ce7e4e0e79ba8ea4bbedded2e5650ec1
+  - enabled: 1
+    path: Assets/Scenes/Reward_1.unity
+    guid: 56705644127e1997b9fce18bf15d3b36
+  - enabled: 1
+    path: Assets/Scenes/Indoor_2.unity
+    guid: a77ed25bfac9a634e97fdbd31161d310
+  - enabled: 1
+    path: Assets/Scenes/Reward_2.unity
+    guid: e247a57cb8530ad41974b6abab779efa
+  - enabled: 1
+    path: Assets/Scenes/Indoor_3.unity
+    guid: ced270c44011e93448a93d585b514b10
+  - enabled: 1
+    path: Assets/Scenes/Reward_3.unity
+    guid: fd812fa77dece974a9536321f02e21e2
+  - enabled: 1
+    path: Assets/Scenes/Indoor_4.unity
+    guid: 4a812cf9f4b02e74a9052f460657174e
+  - enabled: 1
+    path: Assets/Scenes/Reward_4.unity
+    guid: cc324ccdec860b940a441074884d1f69
+  - enabled: 1
+    path: Assets/Scenes/Indoor_5.unity
+    guid: 6dcf66203a0793046b88598f394542a2
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 96effe77babc992448092dc1f1684deb
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 3d3871db66a04414bb621d51ad26141c
+  m_configObjects: {}
